@@ -1,0 +1,1 @@
+public record Dono(int Id, string Name);

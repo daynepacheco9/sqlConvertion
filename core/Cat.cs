@@ -1,0 +1,1 @@
+public record Cat(int Id , string Name, string Cor, int IdDono);
